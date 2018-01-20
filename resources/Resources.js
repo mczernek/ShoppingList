@@ -1,8 +1,8 @@
 const colorsNames = {
   white: '#ffffff',
-  primary: '#2196f3',
-  black: '#000000'
-}
+  primary: '#1de9b6',
+  black: '#000000',
+};
 
 export default {
   colors: {
